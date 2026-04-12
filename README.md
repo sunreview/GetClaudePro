@@ -19,7 +19,7 @@
 
 先准备一个美区 Apple ID，并在 iPhone 上登录 App Store，下载 Claude iOS 应用程序。
 
-<img src="/Users/guichaoran/Library/Application Support/typora-user-images/image-20260410175837711.png" alt="image-20260410175837711" style="zoom: 50%;" />
+<img src="https://github.com/sunreview/GetClaudePro/blob/main/3731663037.png" alt="image-20260410175837711" style="zoom: 50%;" />
 
 下面是注册美区 Apple ID 的教程，全程不需要美国信用卡，使用国内手机号即可轻松注册成功。  
 
@@ -31,7 +31,7 @@
 
 准备好美区 Apple ID 后，就可以购买美区 App Store 礼品卡，并将兑换码充值到 Apple 账户余额中。
 
-<img src="/Users/guichaoran/Downloads/855690765.png" alt="855690765" style="zoom: 33%;" />
+<img src="https://github.com/sunreview/GetClaudePro/blob/main/855690765.png" alt="855690765" style="zoom: 33%;" />
 
 兑换路径如下：
 
@@ -43,7 +43,7 @@
 
 当 Apple 账户余额充值成功后，打开 Claude App，在应用内选择升级订阅，即可通过账户余额完成支付。
 
-<img src="/Users/guichaoran/Library/Application Support/typora-user-images/image-20260411122208817.png" alt="image-20260411122208817" style="zoom: 67%;" />
+<img src="https://github.com/sunreview/GetClaudePro/blob/main/321863056.png" alt="image-20260411122208817" style="zoom: 67%;" />
 
 ---
 
