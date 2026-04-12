@@ -1,15 +1,15 @@
-# 📱 💳 2026 最新 Claude 会员订阅指南（iPhone 用户）
+# 📱 💳 2026 最新 ChatGPT / Claude 会员订阅指南（iPhone 用户）
 
 现在 Claude、ChatGPT、Gemini 等 AI 应用越来越火，但很多国内用户在 iPhone 上开通会员时，都会遇到支付方式受限的问题，比如无法用国内 visa 信用卡充值会员。  
 本文以 Claude 为例，整理一套尽量简单、直观的充值流程：
 
-准备美区 App Store 账号 → 兑换礼品卡余额 → 在 Claude App 内完成订阅。
+准备美区 App Store 账号 → 兑换礼品卡余额 → 在 ChatGPT / Claude App 内完成订阅。
 
 ---
 
 ## ✅ 适合谁
 
-- 想在 iPhone 上开通 Claude 会员的用户
+- 想在 iPhone 上开通 ChatGPT / Claude 会员的用户
 - 没有国外信用卡，但愿意使用美区 Apple ID 的用户
 - 已经能正常访问 App Store 美区应用，希望用更简单方式完成订阅的用户
 
@@ -17,7 +17,7 @@
 
 ## 1️⃣ 注册美区 Apple ID
 
-先准备一个美区 Apple ID，并在 iPhone 上登录 App Store，下载 Claude iOS 应用程序。
+先准备一个美区 Apple ID，并在 iPhone 上登录 App Store，下载 ChatGPT / Claude iOS 应用程序。
 
 <img src="https://github.com/sunreview/GetClaudePro/blob/main/3731663037.png" alt="image-20260410175837711" style="zoom: 50%;" />
 
@@ -39,9 +39,9 @@
 
 ---
 
-## 3️⃣ 在 Claude App 内完成订阅
+## 3️⃣ 在 ChatGPT / Claude App 内完成订阅
 
-当 Apple 账户余额充值成功后，打开 Claude App，在应用内选择升级订阅，即可通过账户余额完成支付。
+当 Apple 账户余额充值成功后，打开 ChatGPT / Claude App，在应用内选择升级订阅，即可通过账户余额完成支付。
 
 <img src="https://github.com/sunreview/GetClaudePro/blob/main/321863056.png" alt="image-20260411122208817" style="zoom: 67%;" />
 
@@ -55,7 +55,7 @@
 **购买前请确认**
 
 - 你使用的是 iPhone，并能登录美区 App Store
-- 你准备订阅的是 Claude iOS App 内购版本
+- 你准备订阅的是 ChatGPT / Claude iOS App 内购版本
 
 👉 [点击购买美区 App Store 礼品卡](https://e.tb.cn/h.iNCvzUaJtbEzL5q?tk=KHDE5UgTefh)
 
@@ -63,7 +63,7 @@
 
 ## ⚠️ 风险提示 
 
-- 礼品卡充值的是 Apple 账户余额，非直接充值到 Claude 账号
+- 礼品卡充值的是 Apple 账户余额，非直接充值到 ChatGPT / Claude 账号
 - 如购买或兑换环节遇到问题，可联系作者咨询，或者在本项目留下issue
 
 ---
@@ -74,7 +74,7 @@
 
 不行，没有美区 Apple ID 无法下载 Claude 应用程序。
 
-### 2. 礼品卡是直接充值到 Claude 账号吗？
+### 2. 礼品卡是直接充值到 ChatGPT / Claude 账号吗？
 
 不是，是先充值到 Apple 账户余额，再在 Claude App 内完成订阅。
 
@@ -89,6 +89,10 @@
 ### 5. 注册美区 Apple 账号需要美国信用卡和手机号吗？
 
 全程不需要美国信用卡，使用国内手机号即可轻松注册成功。
+
+### 6. 充值成功的 ChatGPT / Claude 账号 可以在电脑网页端使用吗？
+
+可以。和信用卡充值的账号一样可以在网页端使用。
 
 ---
 
