@@ -1,4 +1,4 @@
-# 📱 💳 2026 最新 ChatGPT / Claude 会员订阅指南（iPhone 用户）
+# 📱 💳 2026 最新 ChatGPT / Claude 会员充值订阅指南（iPhone 用户）
 
 现在 Claude、ChatGPT、Gemini 等 AI 应用越来越火，但很多国内用户在 iPhone 上开通会员时，都会遇到支付方式受限的问题，比如无法用国内 visa 信用卡充值会员。  
 本文以 Claude 为例，整理一套尽量简单、直观的充值流程：
