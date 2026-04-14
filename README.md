@@ -23,7 +23,7 @@
 
 下面是注册美区 Apple ID 的教程，全程不需要美国信用卡，使用国内手机号即可轻松注册成功。  
 
-👉 [点击查看美区 Apple ID 注册教程](https://item.taobao.com/item.htm?ft=t&id=1043176637886)
+👉 [点击查看美区 Apple ID 注册教程](https://zhuanlan.zhihu.com/p/2011581264205980459)
 
 ---
 
