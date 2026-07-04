@@ -57,7 +57,7 @@
 - 你使用的是 iPhone，并能登录美区 App Store
 - 你准备订阅的是 ChatGPT / Claude iOS App 内购版本
 
-👉 [点击购买美区 App Store 礼品卡](http://store.ai-headshot.net)
+👉 [点击购买美区 App Store 礼品卡](https://store.ai-headshot.net/cat/2)
 
 ---
 
