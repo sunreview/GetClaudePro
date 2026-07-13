@@ -5,6 +5,8 @@
 
 准备美区 App Store 账号 → 兑换礼品卡余额 → 在 ChatGPT / Claude App 内完成订阅。
 
+如果通过自己通过 App Store充值 Claude/ChatGPT 会员 太过繁琐，也可以直接使用 [ChatGPT镜像站](https://chat.aigc248.com/)  
+
 ---
 
 ## ✅ 适合谁
