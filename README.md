@@ -102,4 +102,6 @@
 
 如果你在礼品卡购买、兑换，或者 Claude 订阅过程中遇到问题，可以给本文留言 Issue。
 
+如果感觉 通过Apple Store 充值 Claude/ChatGPT 太过繁琐，也可以直接在 [镜像站使用Claude](https://chat.aigc248.com/) （Claude在镜像站基本不存在降智问题）
+
 以上教程 本人亲自踩过很多坑且最后确认可以订阅成功，如果遇到问题，可以邮件联系 1402709211@qq.com 。
