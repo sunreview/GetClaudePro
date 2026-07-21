@@ -5,8 +5,6 @@
 
 准备美区 App Store 账号 → 兑换礼品卡余额 → 在 ChatGPT / Claude App 内完成订阅。
 
-如果通过自己通过 App Store充值 Claude/ChatGPT 会员 太过繁琐，也可以直接使用 [ChatGPT镜像站](https://chat.aigc248.com/)  
-
 ---
 
 ## ✅ 适合谁
@@ -23,9 +21,9 @@
 
 <img src="https://github.com/sunreview/GetClaudePro/blob/main/3731663037.png" alt="image-20260410175837711" style="zoom: 50%;" />
 
-下面是注册美区 Apple ID 的教程，全程不需要美国信用卡，使用国内手机号即可轻松注册成功。  
+下面是美区 Apple ID 的成品号，已经绑定美国免税州地址 ，可以直接用来下载和订阅 Claude Pro / ChatGPT Plus。  
 
-👉 [点击查看美区 Apple ID 注册教程](https://iyuantiao.com/fenxiangfuli/jiaocheng/tiktok-3.html)
+👉 [点击购买美区 Apple ID 成品号]([(https://store.ai-headshot.net/cat/2)])
 
 ---
 
