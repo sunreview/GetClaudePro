@@ -23,7 +23,7 @@
 
 下面是美区 Apple ID 的成品号，已经绑定美国免税州地址 ，可以直接用来下载和订阅 Claude Pro / ChatGPT Plus。  
 
-👉 [点击购买美区 Apple ID 成品号]([(https://store.ai-headshot.net/cat/2)])
+👉 [点击购买美区 Apple ID 成品号](https://store.ai-headshot.net/item/5)
 
 ---
 
@@ -49,8 +49,10 @@
 
 ## 👉 礼品卡购买入口
 
-支持 **20 美元面额**  
+支持 **22 美元面额**  
 拍下后 **秒发货**
+
+**⚠️ 即使现在是免税州的美区Apple Store账号 ，通过App Store订阅时 有时候会扣款21美元 ，保险起见 还是购买22美元的礼品卡余额更保险**
 
 **购买前请确认**
 
@@ -100,4 +102,4 @@
 
 如果你在礼品卡购买、兑换，或者 Claude 订阅过程中遇到问题，可以给本文留言 Issue。
 
-如果通过App Store充值 Claude/ChatGPT 会员 太过繁琐，也可以直接使用 [ChatGPT镜像站](https://chat.aigc248.com/)  
+以上教程 本人亲自踩过很多坑且最后确认可以订阅成功，如果遇到问题，可以邮件联系 1402709211@qq.com 。
