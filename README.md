@@ -42,9 +42,9 @@
 ## 3️⃣ 在 ChatGPT / Claude App 内完成订阅
 
 ### 3.1 用Gmail 登录 Claude(由于Claude封号严重 用自己的老Gmail账号登录最保险，不容易封号。)
-#### 如果自己没有Gmail账号或者注册Gmail账号遇到问题，也可以购买Gmail成品号。
+#### 如果自己没有Gmail账号或者注册Gmail账号遇到问题，也可以购买注册好的 Claude 成品普号。
 
-👉 [点击购买 Gmail成品号](https://store.ai-headshot.net/item/6)
+👉 [点击购买 Claude 成品普号](https://store.ai-headshot.net/item/7)
 
 当 Apple 账户余额充值成功后，打开 ChatGPT / Claude App，在应用内选择升级订阅，即可通过账户余额完成支付。
 
