@@ -11,7 +11,6 @@
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
 | 🛒 购买 Claude Pro 充值卡密  | https://store.ai-headshot.net/item/8 |
 | 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
-| 📮 星辰邮箱大师（登录取件）  | https://mail.toolsvip.cc/            |
 
 ---
 
