@@ -6,11 +6,13 @@
 
 ## 🔗 快速入口
 
+> ### ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
+
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
 | 🛒 购买 Claude Pro 充值卡密（淘宝） | https://item.taobao.com/item.htm?id=1087916594730 |
-| 🛒 备用购买渠道（发卡网）     | https://store.ai-headshot.net/item/8 |
+| 🛒 购买 Claude Pro 充值卡密（发卡网）     | https://store.ai-headshot.net/item/8 |
 | 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
 
 ---
