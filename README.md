@@ -11,8 +11,7 @@
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
-| 🛒 购买 Claude Pro 充值卡密（淘宝） | https://item.taobao.com/item.htm?id=1087916594730 |
-| 🛒 购买 Claude Pro 充值卡密（发卡网）     | https://store.ai-headshot.net/item/8 |
+| 🛒 购买 Claude Pro 充值卡密   | https://store.ai-headshot.net/item/8 |
 | 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
 
 ---
@@ -60,11 +59,9 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ### ① 一张 Claude Pro 充值卡密
 
-推荐在淘宝店铺购买 Claude Pro 自助充值卡密：
+在发卡网购买 Claude Pro 自助充值卡密，无需登录，付款后自动发卡：
 
-👉 https://item.taobao.com/item.htm?id=1087916594730
-
-备用渠道（发卡网）：https://store.ai-headshot.net/item/8
+👉 https://store.ai-headshot.net/item/8
 
 购买完成后保存好卡密（格式类似 `CLAUDEPRO-xxxx`），后面会用到。
 
@@ -234,8 +231,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ### 🚀 相关入口
 
-- 购买 Claude Pro 充值卡密（淘宝）：https://item.taobao.com/item.htm?id=1087916594730
-- 备用购买渠道（发卡网）：https://store.ai-headshot.net/item/8
+- 购买 Claude Pro 充值卡密：https://store.ai-headshot.net/item/8
 - Claude Pro 自助充值系统：https://vip666ai.com/
 - 完整图文教程：https://getclaude.aigc248.com/
 
