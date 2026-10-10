@@ -1,6 +1,6 @@
-# 🚀 2026年国内用户如何充值 Claude Pro？保姆级图文教程（新手可用）
+# 🚀 2026年国内用户如何充值 Claude Pro？保姆级视频图文教程（新手可用）
 
-> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID、提交充值到确认 Pro 状态的完整**图文**流程，2026 年最新、新手可对照操作。
+> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，2026 年最新、新手可对照操作。
 >
 > 关键词：Claude Pro 充值、Claude Pro 订阅升级、国内 Claude Pro 怎么充值、Claude 卡密充值、Claude 代充 / 自助充值、不用信用卡充值 Claude Pro。
 
@@ -13,6 +13,16 @@
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
 | 🛒 购买 Claude Pro 充值卡密   | https://store.ai-headshot.net/item/8 |
 | 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
+
+---
+
+## 🎬 视频教程（约 30 秒全流程演示）
+
+先花 30 秒看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
+
+https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
+
+> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://getclaude.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
 
 ---
 
@@ -80,6 +90,11 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 ---
 
 ## 4. 🖼️ Claude Pro 充值图文步骤（共 5 步）
+
+下面进入正式充值流程。看完上方视频后，如需逐项核对细节，展开下面的完整图文步骤对照操作即可。
+
+<details>
+<summary>📖 点击展开完整图文步骤（共 5 步）</summary>
 
 ### 第 1 步：登录你要充值的 Claude 账号 👤
 
@@ -159,6 +174,8 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 到这里，整个 Claude Pro 自助充值流程就完成了。🎊
 
+</details>
+
 ---
 
 ## 5. ❓ Claude Pro 充值常见问题 FAQ
@@ -233,6 +250,6 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 - 购买 Claude Pro 充值卡密：https://store.ai-headshot.net/item/8
 - Claude Pro 自助充值系统：https://vip666ai.com/
-- 完整图文教程：https://getclaude.aigc248.com/
+- 完整图文 / 视频教程：https://getclaude.aigc248.com/
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
