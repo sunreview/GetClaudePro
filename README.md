@@ -32,7 +32,7 @@
 | --------------------------- | ------------------------------------ |
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
 | 🛒 购买 Claude Pro 充值卡密   | https://store.ai-headshot.net/item/8 |
-| 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
+| 💳 Claude Pro 自助充值系统   | https://77520.xyz/              |
 
 ---
 
@@ -132,7 +132,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 打开 Claude Pro 自助充值系统：
 
-👉 https://vip666ai.com/
+👉 https://77520.xyz/
 
 页面右侧可以看到三个步骤：**验证卡密 → 充值账号 → 充值结果**。
 
@@ -271,7 +271,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 ### 🚀 相关入口
 
 - 购买 Claude Pro 充值卡密：https://store.ai-headshot.net/item/8
-- Claude Pro 自助充值系统：https://vip666ai.com/
+- Claude Pro 自助充值系统：https://77520.xyz/
 - 完整图文 / 视频教程：https://getclaude.aigc248.com/
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
