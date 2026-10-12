@@ -1,26 +1,18 @@
 # 🚀 2026年国内用户如何充值 / 订阅 Claude Pro 会员？保姆级视频图文教程（新手可用）
 
-> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，新手可对照操作。
+> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，新手可对照操作。只需复制自己账号的 **Organization ID**，无需密码，聊天记录保留，订阅质保 30 天（封号不保）。
 >
 > 📅 最后更新：2026 年 10 月
 
-## 📌 一句话回答：国内怎么充值 Claude Pro？
+## 🎬 视频教程（约 30 秒全流程演示）
 
-不需要国际信用卡。先在发卡网购买 **Claude Pro 充值卡密**，打开**自助充值系统**验证卡密，再到 Claude 的 **Settings → Account** 页面复制自己账号的 **Organization ID**，粘贴到充值系统并确认充值。刷新 **Settings → Billing**，显示 **Pro plan** 就说明升级成功。全程不需要提供密码，升级的是你自己的账号，聊天记录和 Projects 都会保留，订阅质保 30 天（封号不在质保范围内）。
+先花 30 秒看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-## 📋 关键信息一览
+https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
-| 项目 | 说明 |
-| --- | --- |
-| 适用人群 | 已有自己的 Claude 账号、没有国际信用卡的国内 / 中文用户 |
-| 充值方式 | 卡密 + Organization ID 自助充值，给自己的账号升级 Pro |
-| 需要提供什么 | 只需账号的 Organization ID，不需要密码或邮箱验证码 |
-| 聊天记录 | 聊天记录、Projects 全部保留（升级的是你自己的账号） |
-| 没有 Claude 账号 | 可以在发卡网购买 Claude Free 账号后再充值 |
-| 使用范围 | 网页端、桌面端、手机 App 都能用 Pro，也支持 Claude Code |
-| 操作时长 | 视频约 30 秒看完全流程，实际操作共 5 步 |
-| 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
-| 客服 | 微信 `gracereview618`，邮箱 1402709211@qq.com |
+> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://getclaude.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
+
+---
 
 ## 🔗 快速入口
 
@@ -36,13 +28,23 @@
 
 ---
 
-## 🎬 视频教程（约 30 秒全流程演示）
+## 📋 关键信息一览
 
-先花 30 秒看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
+| 项目 | 说明 |
+| --- | --- |
+| 适用人群 | 已有自己的 Claude 账号、没有国际信用卡的国内 / 中文用户 |
+| 充值方式 | 卡密 + Organization ID 自助充值，给自己的账号升级 Pro |
+| 需要提供什么 | 只需账号的 Organization ID，不需要密码或邮箱验证码 |
+| 聊天记录 | 聊天记录、Projects 全部保留（升级的是你自己的账号） |
+| 没有 Claude 账号 | 可以在发卡网购买 Claude Free 账号后再充值 |
+| 使用范围 | 网页端、桌面端、手机 App 都能用 Pro，也支持 Claude Code |
+| 操作时长 | 视频约 30 秒看完全流程，实际操作共 5 步 |
+| 质保 | 30 天订阅质保，中途掉订阅可联系客服处理；账号被封禁不在质保范围内 |
+| 客服 | 微信 `gracereview618`，邮箱 1402709211@qq.com |
 
-https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
+## 📌 一句话回答：国内怎么充值 Claude Pro？
 
-> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://getclaude.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
+不需要国际信用卡。先在发卡网购买 **Claude Pro 充值卡密**，打开**自助充值系统**验证卡密，再到 Claude 的 **Settings → Account** 页面复制自己账号的 **Organization ID**，粘贴到充值系统并确认充值。刷新 **Settings → Billing**，显示 **Pro plan** 就说明升级成功。全程不需要提供密码，升级的是你自己的账号，聊天记录和 Projects 都会保留，订阅质保 30 天（封号不在质保范围内）。
 
 ---
 
