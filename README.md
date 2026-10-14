@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
 > ### ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
 >
-> **自带接码链接的 Claude 普号，请到[发卡网（store.ai-headshot.net/item/7）](https://store.ai-headshot.net/item/7)购买。**
+> **自带接码链接的 Claude 普号，请到[发卡网（store.ai-headshot.net/item/9）](https://store.ai-headshot.net/item/9)购买。**
 
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
@@ -70,7 +70,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 如果没有自己的 Claude Free 账号，也可以在发卡网购买：
 
-👉 https://store.ai-headshot.net/item/7
+👉 https://store.ai-headshot.net/item/9
 
 ### ✅ 没有方便的国际信用卡
 
@@ -103,7 +103,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 如果没有自己的 Claude Free 账号，也可以在发卡网购买：
 
-👉 https://store.ai-headshot.net/item/7
+👉 https://store.ai-headshot.net/item/9
 
 ### ③ 准备好刷新确认结果
 
