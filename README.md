@@ -72,7 +72,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 如果没有自己的 Claude Free 账号，也可以在发卡网购买：
 
-👉 https://store.ai-headshot.net/item/9
+👉 https://store.ai-headshot.net/item/7
 
 ### ✅ 没有方便的国际信用卡
 
@@ -105,7 +105,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 如果没有自己的 Claude Free 账号，也可以在发卡网购买：
 
-👉 https://store.ai-headshot.net/item/9
+👉 https://store.ai-headshot.net/item/7
 
 ### ③ 准备好刷新确认结果
 
