@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 > ### ‼️ Tip: receive your Claude login verification code through a 📮 code-receiving link to lower the ban risk! ‼️
 >
 > **For a plain Claude account that comes with its own code-receiving link, buy it at [the store (store.ai-headshot.net/item/9)](https://store.ai-headshot.net/item/9).**
+>
+> For more detailed tips on avoiding account bans, please refer to the [Claude Account Ban Prevention Guide](https://github.com/sunreview/anti-claude).
 
 | Purpose                       | URL                                  |
 | ----------------------------- | ------------------------------------ |
