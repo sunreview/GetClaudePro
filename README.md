@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 > ### ‼️ 建议通过 📮 接码链接 接收 登陆Claude账号验证码，降低封号风险！！ ‼️
 >
 > **自带接码链接的 Claude 普号，请到[发卡网（store.ai-headshot.net/item/9）](https://store.ai-headshot.net/item/9)购买。**
+> 更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude) 
 
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
