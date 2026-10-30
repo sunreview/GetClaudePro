@@ -2,7 +2,7 @@
 
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
-> A **Claude Pro top-up guide** for users without an international credit card: use a **redeem code (card key) + self-service top-up** to **upgrade your own Claude account to a Pro subscription**. This article walks through the full **picture + video** flow — buying a code, verifying it, copying your Organization ID, submitting the top-up, and confirming Pro status. You only need to copy your account's **Organization ID**; no password required, your chat history is kept, and the subscription carries a 30-day warranty (account bans are not covered).
+> A **Claude Pro top-up guide** for users without an international credit card: order and pay with WeChat Pay / USDT on the all-in-one top-up site **[oksub.net](https://oksub.net/claude)**, then **self-serve the top-up** to **upgrade your own Claude account to a Pro subscription**. This article walks through the full **picture + video** flow — ordering and paying, copying your Organization ID, submitting the top-up, and confirming Pro status. You only need to copy your account's **Organization ID**; no password required, your chat history is kept, and the subscription carries a 30-day warranty (account bans are not covered).
 >
 > 📅 Last updated: October 2026
 
@@ -27,8 +27,8 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 | Purpose                       | URL                                  |
 | ----------------------------- | ------------------------------------ |
 | 📘 Original tutorial page      | https://getclaude.aigc248.com/       |
-| 🛒 Buy a Claude Pro redeem code | https://store.ai-headshot.net/item/8 |
-| 💳 Claude Pro self-service top-up | https://77520.xyz/               |
+| 💳 Claude Pro order + self-service top-up (all-in-one) | https://oksub.net/claude |
+| 🔍 Order lookup                | https://oksub.net/orders |
 
 ---
 
@@ -37,18 +37,19 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 | Item | Details |
 | --- | --- |
 | Who it's for | Users who already have their own Claude account but no international credit card |
-| Top-up method | Redeem code + Organization ID self-service top-up, upgrading your own account to Pro |
+| Top-up method | Order and pay on oksub.net (WeChat Pay / USDT) + Organization ID self-service top-up, upgrading your own account to Pro |
+| Account requirement | The account must currently be Free (no active Pro / Max membership); stacking on an existing plan is not supported |
 | What you provide | Only your account's Organization ID — no password, no email verification code |
 | Chat history | Chat history and Projects are fully kept (you're upgrading your own account) |
 | No Claude account yet | You can buy a Claude Free account at the store, then top up |
 | Where it works | Pro works on web, desktop, and mobile apps, and with Claude Code |
 | Time needed | ~30 seconds to watch the video; 5 steps in practice |
 | Warranty | 30-day subscription warranty; contact support if the subscription drops. Account bans are not covered |
-| Support | WeChat `gracereview618`, email 1402709211@qq.com |
+| Support | WeChat `gracereview618`, Telegram `@aispace_kefu`, email 1402709211@qq.com |
 
 ## 📌 One-Sentence Answer: How do I pay for Claude Pro without an international card?
 
-No international credit card needed. First buy a **Claude Pro redeem code** at the store, open the **self-service top-up system** to verify the code, then go to Claude's **Settings → Account** page and copy your account's **Organization ID**, paste it into the top-up system, and confirm. Refresh **Settings → Billing**; when it shows **Pro plan**, the upgrade is done. No password is ever required, you're upgrading your own account, your chat history and Projects are kept, and the subscription has a 30-day warranty (bans not covered).
+No international credit card needed. Open **[oksub.net](https://oksub.net/claude)**, choose **Claude Pro**, enter your email and pay with WeChat Pay or USDT — you're taken to the order page automatically after payment. Then go to Claude's **Settings → Account** page, copy your account's **Organization ID**, paste it into the order page, run the pre-check, and confirm the top-up. Refresh **Settings → Billing**; when it shows **Pro plan**, the upgrade is done. No password is ever required, you're upgrading your own account, your chat history and Projects are kept, and the subscription has a 30-day warranty (bans not covered).
 
 ---
 
@@ -62,7 +63,7 @@ Common problems:
 - Payments on the official page often fail or get blocked by risk control;
 - Unfamiliarity with overseas subscription and billing flows.
 
-The flow below uses a **redeem code + self-service top-up system** to complete the upgrade. You only provide your account's **Organization ID** — no password — and a desktop browser is recommended throughout.
+The flow below uses **oksub.net's all-in-one ordering + self-service top-up** to complete the upgrade. You only provide your account's **Organization ID** — no password — and a desktop browser is recommended throughout.
 
 ---
 
@@ -78,13 +79,13 @@ If you don't have a Claude Free account yet, you can buy one at the store:
 
 ### ✅ You don't have a convenient international credit card
 
-If you can't complete a card payment on Claude's official page, a redeem-code self-service top-up is worth considering.
+If you can't complete a card payment on Claude's official page, you can pay with WeChat Pay or USDT on oksub.net and then top up yourself.
 
 ### ✅ It's your first time and you want a picture guide to follow
 
 The whole process boils down to:
 
-**Buy a code → Log in to Claude → Verify the code → Copy Organization ID → Submit top-up → Refresh Billing to see Pro**
+**Log in to Claude → Order and pay on oksub.net → Copy Organization ID → Pre-check and top up on the order page → Refresh Billing to see Pro**
 
 If you're new to this, just follow the screenshots step by step below.
 
@@ -92,17 +93,15 @@ If you're new to this, just follow the screenshots step by step below.
 
 ## 3. 🧰 What do you need to top up Claude Pro?
 
-### ① A Claude Pro redeem code
+### ① An email you use regularly + WeChat Pay / USDT
 
-Buy a Claude Pro self-service redeem code at the store — no login needed, delivered automatically after payment:
+You'll enter an email when ordering on oksub.net; after payment, the order page link is sent to that email so you can come back any time to continue the top-up or check the order. Payment supports WeChat Pay and USDT (BEP20 / Polygon), no login needed:
 
-👉 https://store.ai-headshot.net/item/8
-
-After purchase, save the code (it looks like `CLAUDEPRO-xxxx`); you'll need it later.
+👉 https://oksub.net/claude
 
 ### ② A Claude account you can log in to
 
-Before redeeming, make sure you can log in to **the exact Claude account you intend to upgrade**, so you don't lose track of the account after a successful top-up.
+Before topping up, make sure you can log in to **the exact Claude account you intend to upgrade**, so you don't lose track of the account after a successful top-up. The account must currently be **Free** (no active Pro / Max membership) — Claude does not support topping up over an existing plan.
 
 If you don't have a Claude Free account yet, you can buy one at the store:
 
@@ -110,7 +109,7 @@ If you don't have a Claude Free account yet, you can buy one at the store:
 
 ### ③ Be ready to refresh and confirm the result
 
-After redeeming, you'll need to go back to Claude and refresh — logging in again if necessary — to confirm the subscription status has updated.
+After topping up, you'll need to go back to Claude and refresh — logging in again if necessary — to confirm the subscription status has updated.
 
 ---
 
@@ -133,24 +132,31 @@ After logging in, you'll see **Free** next to your account name in the bottom-le
 
 ---
 
-### Step 2: Open the self-service top-up system and enter the code 🔑
+### Step 2: Open oksub.net, place an order and pay 🛒
 
-Open the Claude Pro self-service top-up system:
+Open the Claude top-up page on oksub.net:
 
-👉 https://77520.xyz/
+👉 https://oksub.net/claude
 
-On the right you'll see three steps: **Verify code → Top up account → Result**.
+In the pricing section, choose **Claude Pro** and click **"立即开通" (Subscribe now)**. Read the risk notice, then click **"我已知悉并继续" (I understand, continue)**.
 
-Paste the code you bought into the **"Card Key"** box and click **"Verify & Next"**. Clicking next only validates online first; it does not consume the code.
+![Step 2-1: Choose the Claude Pro plan on oksub.net](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-01.jpg)
+
+On the order page you'll see three steps at the top: **Choose plan · Fill in info → Scan to pay → Enter top-up account**.
+
+Enter an **email** you use regularly (the order page link is sent to it after payment), choose a payment method (**WeChat Pay** or **USDT-BEP20 / USDT-Polygon**), and click **"立即支付" (Pay now)** at the bottom.
 
 Notes:
 
-- Don't copy extra spaces;
-- No line breaks;
-- Don't drop any characters;
-- If it says invalid, re-copy once and try again.
+- Use an email you check regularly so you don't lose contact;
+- If you need an invoice, choose "需要发票" (Invoice needed) — invoices can't be added later for orders placed without one;
+- Before ordering, confirm the Claude account you're topping up is currently **Free**.
 
-![Step 2: Enter and verify the code in the self-service top-up system](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/step-02.jpg)
+![Step 2-2: Enter your email and choose a payment method](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-02.jpg)
+
+On the payment page, check the order details and complete payment (scan with WeChat or transfer USDT). After payment succeeds, the page automatically redirects to the order page.
+
+![Step 2-3: Confirm the order and pay](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-03.jpg)
 
 ---
 
@@ -170,15 +176,15 @@ On the **Settings → Account** page, find the **Organization ID** and copy the 
 
 ### Step 4: Paste the Organization ID and confirm the top-up ✅
 
-Back in the top-up system, the page now shows **the code is valid** and the plan to top up is **Claude Pro**.
+Go back to the order page on oksub.net. The order now shows **已付款 (Paid)**, with **"Claude Pro：输入 Organization ID 充值" (Claude Pro: enter Organization ID to top up)** below.
 
-Paste the Organization ID you just copied into both the **"Claude Organization ID"** and **"Re-enter Organization ID"** boxes, making sure both are the correct ID.
+Paste the Organization ID you just copied into the **"Organization ID"** box and click **"预检账号信息" (Pre-check account)**.
 
-Once confirmed, click **"Confirm Organization ID and top up"**.
+Once the pre-check passes, a **"核对充值账号" (Verify top-up account)** panel appears. Confirm the Organization ID and the resulting plan **Claude Pro** are correct, tick **"I confirm this is the Claude account I want to top up and it has no active Pro / Max membership"**, then click **"确认并开始充值" (Confirm and start top-up)**.
 
 > ⚠️ A wrong Organization ID will top up a different Claude account, so double-check before submitting. Don't click repeatedly after submitting, and don't switch accounts.
 
-![Step 4: Paste the Organization ID and confirm the top-up](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/step-04.jpg)
+![Step 4: Paste the Organization ID and confirm the top-up](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-04.jpg)
 
 ---
 
@@ -197,6 +203,8 @@ If nothing changes right after refreshing, you can:
 3. Log out of Claude and log back in;
 4. Check the plan status on the Billing page again.
 
+To check the order later, open the order page link in your email, or enter your order number / order email on the [order lookup](https://oksub.net/orders) page.
+
 That completes the whole Claude Pro self-service top-up flow. 🎊
 
 </details>
@@ -207,51 +215,63 @@ That completes the whole Claude Pro self-service top-up flow. 🎊
 
 ### Q1: Is this top-up method under warranty?
 
-A 30-day subscription warranty. If the Pro subscription drops within 30 days, contact support **gracereview618** promptly. Note: **account bans are not covered**.
+A 30-day subscription warranty: if the Pro subscription drops within 30 days (and the account isn't banned), contact support (WeChat **gracereview618** / Telegram **@aispace_kefu**) promptly with your order number. Note: **account bans are not covered**.
 
-### Q2: Do I have to give my Claude password to anyone?
+### Q2: Why aren't account bans covered?
 
-No. The whole flow only requires entering your **Organization ID** in the self-service top-up system — no password or email verification code.
+Claude is sensitive to usage region and network environment. Bans are mostly related to the usage environment, which is outside what a top-up service can control. Use a stable, clean network environment.
 
-### Q3: Where do I find the Organization ID?
+### Q3: Do I have to give my Claude password to anyone?
 
-After logging in to Claude, open https://claude.ai/settings/account and you'll see the **Organization ID** on the Account page.
+No. After payment you only enter your Claude account's **Organization ID** on the order page (copied from claude.ai/settings/account). It's just an account identifier, not a password, and no email verification code is needed. You're topping up your own account, so your chat history and Projects are kept.
 
-### Q4: Why does it say "code invalid" or "code already used"?
+### Q4: Where do I find the Organization ID?
 
-First check:
-
-1. Any extra spaces copied;
-2. Any line breaks;
-3. Any missing characters;
-4. Whether the code has already been used.
-
-If the code is entered completely correctly and still won't verify, contact support to check.
+After logging in to Claude, open https://claude.ai/settings/account and you'll see the **Organization ID** on the Account page (a string like `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`). Copy it in full and paste it into the order page. If you're logged in to multiple Claude accounts in the browser, make sure you copy the one you want to upgrade — a wrong ID tops up a different account.
 
 ### Q5: The system says top-up complete, but Claude is still Free. What now?
 
 Try in order:
 
 1. Refresh the Claude page;
-2. Wait a bit and check again;
+2. Wait a few dozen seconds and check again;
 3. Log out and log back in;
-4. Confirm the plan on the Billing page;
-5. In the top-up system's **"Quick Services"**, click **"Force refresh Claude if not received"**;
-6. If it still doesn't apply, save the code and top-up time and contact support.
+4. Confirm the plan under Settings → Billing;
+5. If it still shows Free, contact support with your order number and they'll check it for you.
 
-### Q6: Can I use it on mobile after a successful top-up?
+### Q6: I'm already on Pro. Can I renew early?
 
-Yes. The Pro subscription is tied to the account; logging in to the same account on web, desktop, and mobile apps all gives you Pro.
+No, plans can't be stacked. Wait until the current subscription expires and the account is back on Free, then place a new order.
 
-### Q7: Can I use Claude Code after a successful top-up?
+### Q7: I'm already on Pro. Can I upgrade straight to Max?
 
-Yes. Download Claude Code or Claude Desktop, log in to the same Claude account, and you'll have Pro benefits.
+No. Max also only supports Free accounts. Wait until Pro expires and the account is back on Free before ordering Max; otherwise it won't be applied and can't be refunded.
+
+### Q8: Can I use it on mobile after a successful top-up?
+
+Yes. The subscription is tied to the account; logging in to the same Claude account on web, desktop, and mobile apps all gives you Pro.
+
+### Q9: Can I use Claude Code after a successful top-up?
+
+Yes, at no extra cost. Claude Code is included in the Pro subscription: download Claude Code or the Claude desktop app and log in to the same Claude account. Usage limits follow your subscription tier.
+
+### Q10: How do I choose between Pro, Max 5x, and Max 20x?
+
+Max 5x and Max 20x give 5× and 20× the usage of Pro. For everyday writing and occasional Claude Code, choose Pro; for running Claude Code or agents for long hours every day, choose Max 5x; for round-the-clock heavy development that often hits usage limits, choose Max 20x.
+
+### Q11: How is Max activated?
+
+Max 5x / 20x is delivered manually by support: after payment, click "联系客服" (Contact support) on the order page and send your order number; support will verify and activate it. The account must be Free (no active Pro / Max membership) and must have passed KYC identity verification.
+
+### Q12: Where can I check my order?
+
+After payment, the order page link is sent to the email you ordered with; you can also enter your order number or order email on the [order lookup](https://oksub.net/orders) page.
 
 ---
 
 ## 6. 💬 Contact Support
 
-If you still run into issues with the code, Organization ID, or top-up result after following the steps above, contact after-sales support for help.
+If you still run into issues with payment, the Organization ID, or the top-up result after following the steps above, contact after-sales support for help (please include your order number).
 
 ### 📱 WeChat Support
 
@@ -261,6 +281,10 @@ When adding, you can note:
 
 > Claude account top-up system
 
+### ✈️ Telegram Support
+
+**Telegram: [@aispace_kefu](https://t.me/aispace_kefu)**
+
 You can also open an Issue in this project, or email 1402709211@qq.com.
 
 ---
@@ -269,14 +293,14 @@ You can also open an Issue in this project, or email 1402709211@qq.com.
 
 If you already have your own Claude account and just lack a convenient way to pay for Pro, the self-service flow in this guide comes down to one sentence:
 
-> **Buy a code → Verify the code → Copy Organization ID → Confirm top-up → Refresh Billing to confirm Pro.**
+> **Order and pay on oksub.net → Copy Organization ID → Pre-check and confirm top-up on the order page → Refresh Billing to confirm Pro.**
 
 On your first run, don't rush — above all, carefully confirm that the **Organization ID belongs to the account you want to upgrade**.
 
 ### 🚀 Related Links
 
-- Buy a Claude Pro redeem code: https://store.ai-headshot.net/item/8
-- Claude Pro self-service top-up: https://77520.xyz/
+- Claude Pro order + self-service top-up (all-in-one): https://oksub.net/claude
+- Order lookup: https://oksub.net/orders
 - Full picture / video tutorial: https://getclaude.aigc248.com/
 
 If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.
