@@ -12,7 +12,7 @@
 
 https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
-> ▶️ Видео выше воспроизводится прямо на странице. Можно также [посмотреть на исходной странице руководства](https://getclaude.aigc248.com/) или [скачать видеофайл](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4).
+> ▶️ Видео выше воспроизводится прямо на странице. Можно также [скачать видеофайл](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4).
 
 ---
 
@@ -26,7 +26,6 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
 | Назначение                     | Адрес                                |
 | ------------------------------ | ------------------------------------ |
-| 📘 Исходная страница руководства | https://getclaude.aigc248.com/       |
 | 💳 Заказ + самопополнение Claude Pro (всё в одном) | https://oksub.net/claude |
 | 🔍 Поиск заказа                 | https://oksub.net/orders |
 
@@ -301,6 +300,5 @@ Max 5x / 20x оформляет поддержка вручную: после о
 
 - Заказ + самопополнение Claude Pro (всё в одном): https://oksub.net/claude
 - Поиск заказа: https://oksub.net/orders
-- Полное фото/видео руководство: https://getclaude.aigc248.com/
 
 Если это руководство помогло, поставьте **Star ⭐ / добавьте в закладки** и возвращайтесь сюда при продлении.

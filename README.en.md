@@ -12,7 +12,7 @@ Watch the full flow once (about 30 seconds) to get the big picture, then follow 
 
 https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
-> ▶️ The video above plays inline. You can also [watch it on the original tutorial page](https://getclaude.aigc248.com/) or [download the video file](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4).
+> ▶️ The video above plays inline. You can also [download the video file](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4).
 
 ---
 
@@ -26,7 +26,6 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
 | Purpose                       | URL                                  |
 | ----------------------------- | ------------------------------------ |
-| 📘 Original tutorial page      | https://getclaude.aigc248.com/       |
 | 💳 Claude Pro order + self-service top-up (all-in-one) | https://oksub.net/claude |
 | 🔍 Order lookup                | https://oksub.net/orders |
 
@@ -301,6 +300,5 @@ On your first run, don't rush — above all, carefully confirm that the **Organi
 
 - Claude Pro order + self-service top-up (all-in-one): https://oksub.net/claude
 - Order lookup: https://oksub.net/orders
-- Full picture / video tutorial: https://getclaude.aigc248.com/
 
 If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.

@@ -12,7 +12,7 @@
 
 https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
-> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://getclaude.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
+> ▶️ 上方视频可直接在页面内播放。也可[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
 
 ---
 
@@ -26,7 +26,6 @@ https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
 
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
-| 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
 | 💳 Claude Pro 下单 + 自助充值（一站式） | https://oksub.net/claude |
 | 🔍 订单查询                  | https://oksub.net/orders |
 
@@ -302,6 +301,5 @@ Max 5x / 20x 由客服人工交付：付款后在订单页点「联系客服」�
 
 - Claude Pro 下单 + 自助充值（一站式）：https://oksub.net/claude
 - 订单查询：https://oksub.net/orders
-- 完整图文 / 视频教程：https://getclaude.aigc248.com/
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
