@@ -10,7 +10,11 @@
 
 先花 30 秒看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-https://github.com/user-attachments/assets/3ea58cb9-f0cb-459a-aff9-b6bb22c8eaaa
+
+
+https://github.com/user-attachments/assets/39c2c559-e495-4c06-8264-9715fd6580af
+
+
 
 > ▶️ 上方视频可直接在页面内播放。也可[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
 
