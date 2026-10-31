@@ -12,7 +12,11 @@
 
 
 
-https://github.com/user-attachments/assets/39c2c559-e495-4c06-8264-9715fd6580af
+
+
+https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
+
+
 
 
 
@@ -27,11 +31,6 @@ https://github.com/user-attachments/assets/39c2c559-e495-4c06-8264-9715fd6580af
 > **自带接码链接的 Claude 普号，请到[发卡网（store.ai-headshot.net/item/9）](https://store.ai-headshot.net/item/9)购买。**
 > 
 > 更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude) 
-
-| 用途                        | 地址                                 |
-| --------------------------- | ------------------------------------ |
-| 💳 Claude Pro 下单 + 自助充值（一站式） | https://oksub.net/claude |
-| 🔍 订单查询                  | https://oksub.net/orders |
 
 ---
 
